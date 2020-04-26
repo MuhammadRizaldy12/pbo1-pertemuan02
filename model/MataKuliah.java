@@ -1,6 +1,7 @@
 package model;
 
 
+
 public class MataKuliah{
  
 public static void tampilanInfo(){
